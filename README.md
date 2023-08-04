@@ -1,6 +1,8 @@
 # My Ant Design Pro
 
-用ant-design-pro初始化的前端项目，修改成自己想要的基本中后台项目框架。
+用ant pro v5 初始化的 react18+umi4.x+ts+antd5.x 项目，修改成自己想要的中后台模板。
+
+umijs有1.x, 2.x, 3.x, 4.x; 1已经文档都没有了
 
 ## 安装依赖
 
