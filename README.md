@@ -1,8 +1,6 @@
 # My Ant Design Pro
 
-用ant pro v5 初始化的 react18+umi4.x+ts+antd5.x 项目，修改成自己想要的中后台模板。
-
-umijs1.x, 2.x, 3.x, 4.x; 1已经文档都没有了，4地址：https://umijs.org/docs/introduce/introduce
+umijs1.x, 2.x, 3.x, 4.x; 1已经没有文档了，4地址：https://umijs.org/docs/introduce/introduce
 
 antpro v5文档：https://beta-pro.ant.design/docs/getting-started-cn
 
